@@ -140,18 +140,9 @@ h3 {
     place-items: center;
 }
 
-#form-submit {
-    text-align: center;
-}
-
 .contact-info {
     text-align: center;
     margin-bottom: 50px;
-}
-
-#contact-button {
-    text-align: center;
-    margin: 10px;
 }
 
 .return-link {
@@ -208,8 +199,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 
 #button1 {
     text-align: center;
-    margin: 25px
-    
+    margin: 25px 
 }
 
 .freepik-credit-link {
